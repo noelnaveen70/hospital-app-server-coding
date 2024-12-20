@@ -1,0 +1,28 @@
+[
+    {
+      "hospital_name": "St. Mary's Hospital",
+      "patient_count": 250,
+      "location": "KERALA"
+    },
+    {
+      "hospital_name": "Greenwood Medical Center",
+      "patient_count": 120,
+      "location": "TAMILNADU"
+    },
+    {
+      "hospital_name": "Sunnydale Health Institute",
+      "patient_count": 350,
+      "location": "GOA"
+    },
+    {
+      "hospital_name": "Riverside General Hospital",
+      "patient_count": 500,
+      "location": "BANGALORE"
+    },
+    {
+      "hospital_name": "Mountainview Medical Complex",
+      "patient_count": 420,
+      "location": "RAJASTHAN"
+    }
+  ]
+  
